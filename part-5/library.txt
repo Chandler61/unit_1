@@ -1,0 +1,2 @@
+f, f, 2, 3.0, 3
+Harry Potter and the Chamber of Secrets, J.K. Rowling, 1998, 4.4, 344
